@@ -2,7 +2,7 @@
 
     Projeto criado seguindo parte do tutorial do canal destinado
     a automação com python FreecodeCamp.org onde é ensinado a como
-    criar um top de notícias do site HackerNews.
+    criar script que lista um top de notícias do site HackerNews.
 
     Processo do script: 
         -Cria uma função para extrair e organizar dados do site HackerNews usando o beautifulsoup.
